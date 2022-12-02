@@ -30,7 +30,7 @@
         "myclabs/php-enum": "1.5.0",
         "imgix/imgix-php": "1.1.0",
         "mathiasgrimm/laravel-env-validator": "1.1.0",
-        "lsrur/inspector": "dev-main",
+        "lsrur/inspector": "dev-master",
         "barryvdh/laravel-debugbar": "^2.1",
         "guzzlehttp/guzzle": "^6.2"
     },
